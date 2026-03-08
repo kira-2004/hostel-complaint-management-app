@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hostel_complaint_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# hostel-complaint-management-app
+Flutter app for hostel complaint management system
+>>>>>>> 3e29c49f6a80c7b4573c0625abee3c0e59c40516
