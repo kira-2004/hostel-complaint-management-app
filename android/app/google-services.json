@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482046058527",
+    "project_id": "hostel-complaint-system-4a8a5",
+    "storage_bucket": "hostel-complaint-system-4a8a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482046058527:android:edbcb52783c56648b3f52a",
+        "android_client_info": {
+          "package_name": "com.example.hostel_complaint_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7u4Og1XRMdRWJY__KXBjSW-9YSdF5XTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
