@@ -1,22 +1,37 @@
-<<<<<<< HEAD
-# hostel_complaint_app
+# Hostel Complaint Management App
 
-A new Flutter project.
+A Flutter-based application designed to streamline the process of submitting, tracking, and resolving hostel complaints.
 
-## Getting Started
+## Overview
+This app allows hostel students to submit complaints related to various issues such as WiFi, electrical problems, sanitation, or maintenance. Wardens can view these complaints, update their status, and mark them as resolved.
 
-This project is a starting point for a Flutter application.
+The system helps improve transparency and ensures complaints are addressed efficiently.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Student login using Student ID
+- Submit complaints with categories
+- Track complaint status (Pending / Resolved)
+- Warden dashboard to manage complaints
+- Firebase Firestore database integration
+- Simple and user-friendly interface
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tech Stack
+- **Flutter** (UI Framework)
+- **Dart** (Programming Language)
+- **Firebase Firestore** (Database)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# hostel-complaint-management-app
-Flutter app for hostel complaint management system
->>>>>>> 3e29c49f6a80c7b4573c0625abee3c0e59c40516
+## Project Structure
+lib/
+screens/
+widgets/
+services/
+main.dart
+
+## Future Improvements
+- Push notifications for complaint updates
+- Complaint analytics dashboard
+- Image attachments for complaints
+- Multi-hostel support
+
+## Author
+Apoorv Vansh
